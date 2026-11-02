@@ -1,7 +1,7 @@
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import InfoCard from "./components/InfoCard";
-import ProductSection from "./components/ProductSection";
+import Navbar from "./part1/components/Navbar";
+import Footer from "./part1/components/Footer";
+import InfoCard from "./part1/components/InfoCard";
+import ProductSection from "./part1/components/ProductSection";
 
 function App() {
   return (
